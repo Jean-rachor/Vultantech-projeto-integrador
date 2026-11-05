@@ -1,0 +1,32 @@
+{
+  "features": {
+    "temperatura_fuso_c": 56.04,
+    "vibracao_triaxial_rms_mms": 1.87,
+    "torque_fuso_nm": 95.68,
+    "vazao_refrigerante_lmin": 26.31,
+    "corrente_estator_amp": 23.73,
+    "pressao_hidraulica_bar": 168.79,
+    "nivel_ruido_db": 53.96,
+    "temperatura_fuso_c_media_30min": 56.04,
+    "temperatura_fuso_c_desvio_30min": 0.0,
+    "vibracao_triaxial_rms_mms_media_30min": 1.87,
+    "vibracao_triaxial_rms_mms_desvio_30min": 0.0,
+    "torque_fuso_nm_media_30min": 95.68,
+    "torque_fuso_nm_desvio_30min": 0.0,
+    "vazao_refrigerante_lmin_media_2h": 26.31,
+    "vazao_refrigerante_lmin_desvio_2h": 0.0,
+    "corrente_estator_amp_media_30min": 23.73,
+    "corrente_estator_amp_desvio_30min": 0.0,
+    "pressao_hidraulica_bar_media_2h": 168.79,
+    "pressao_hidraulica_bar_desvio_2h": 0.0,
+    "nivel_ruido_db_media_2h": 53.96,
+    "nivel_ruido_db_desvio_2h": 0.0,
+    "IEM": 6.551504943244233,
+    "temperatura_fuso_c_norm": 1.0178948323539851,
+    "vibracao_triaxial_rms_mms_norm": 0.8431855345726921,
+    "torque_fuso_nm_norm": 0.8147046793950495,
+    "corrente_estator_amp_norm": 0.7882898147227558,
+    "id_celula_enc": 1.0,
+    "liga_metalica_enc": 0.0
+  }
+}

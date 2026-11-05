@@ -1,0 +1,10 @@
+.git/
+.venv/
+.pytest_cache/
+**/__pycache__/
+*.py[cod]
+*.sqlite3
+Docs/Projeto/
+Docs/Entregaveis/Graficos/
+Docs/Entregaveis/ML/*.png
+Base_do_HTML/

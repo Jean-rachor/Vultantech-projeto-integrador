@@ -1,0 +1,28 @@
+[
+  {
+    "filename": "commons_weld_photo.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Weld_photo.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Weld_photo.jpg",
+    "author": "Xyz00030280",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_description": "Fotografia de solda por fricção, sem rebarba claramente formada; descrição do autor da fonte.",
+    "changes": "Nenhuma; cópia original.",
+    "classification": "NAO_CLASSIFICADA",
+    "classification_source": null,
+    "use": "Referência visual, fora do treino e da validação."
+  },
+  {
+    "filename": "commons_cracks_in_weld.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Cracks_in_weld.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cracks_in_weld.jpg",
+    "author": "Zobac",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_description": "Ilustração esquemática de trincas em solda, conforme descrição da fonte.",
+    "changes": "Nenhuma; cópia original.",
+    "classification": "NAO_CLASSIFICADA",
+    "classification_source": null,
+    "use": "Referência visual, fora do treino e da validação."
+  }
+]

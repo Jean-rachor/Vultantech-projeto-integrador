@@ -1,0 +1,8 @@
+services:
+  api:
+    build: .
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - ./vulcantech.sqlite3:/app/vulcantech.sqlite3
+    restart: unless-stopped

@@ -1,0 +1,762 @@
+[
+  {
+    "file": "solda_01__luz097.jpg",
+    "source_file": "solda_01.jpg",
+    "source_sha256": "b3e592333dda9542d96f8bef6bf4c69207d5b3dcd1977bd19ee153c951315a89",
+    "derived_sha256": "f6317e274a2b02e13676629e52b99a58d83eddb62354c129ba7b5e93b1c99b90",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        307,
+        260
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.227976+00:00"
+  },
+  {
+    "file": "solda_01__luz103.jpg",
+    "source_file": "solda_01.jpg",
+    "source_sha256": "b3e592333dda9542d96f8bef6bf4c69207d5b3dcd1977bd19ee153c951315a89",
+    "derived_sha256": "385916b87a31d44239cdd67758a61a6240f49a148a33647ce793a240600142fa",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        307,
+        260
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.234370+00:00"
+  },
+  {
+    "file": "solda_02__luz097.jpg",
+    "source_file": "solda_02.jpg",
+    "source_sha256": "219c96767befab954a82e34a0fb3d606ee3dc531cb87058148c70613414963ba",
+    "derived_sha256": "f008b7973a05910d978ca0ce6f2c0aa4f2645a9c3ccc38ff32fd62ad2ec1d79c",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        302,
+        260
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.241924+00:00"
+  },
+  {
+    "file": "solda_02__luz103.jpg",
+    "source_file": "solda_02.jpg",
+    "source_sha256": "219c96767befab954a82e34a0fb3d606ee3dc531cb87058148c70613414963ba",
+    "derived_sha256": "f4609bdaed8c75e49afbbb035774d1af3cdca56f250d215ae8d916a13486aba1",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        302,
+        260
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.248386+00:00"
+  },
+  {
+    "file": "solda_03__luz097.jpg",
+    "source_file": "solda_03.jpg",
+    "source_sha256": "6f63551eded129a28c3169b9827dc4861503ca36e86a8d7212357f524e896145",
+    "derived_sha256": "0a416f5a8f31c54eb80dffa3cda91e1ef7f08e0baf1421cefe0fbfd09e45e37b",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        297,
+        260
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.257673+00:00"
+  },
+  {
+    "file": "solda_03__luz103.jpg",
+    "source_file": "solda_03.jpg",
+    "source_sha256": "6f63551eded129a28c3169b9827dc4861503ca36e86a8d7212357f524e896145",
+    "derived_sha256": "7ab9e8b8a7ba178d496331b9d2b00ea83d4a9c70d3a9ca48a4c7745ff3b1b424",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        297,
+        260
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.265749+00:00"
+  },
+  {
+    "file": "solda_04__luz097.jpg",
+    "source_file": "solda_04.jpg",
+    "source_sha256": "36bec313dc1ffc116b95cf39a540ce3142622d3d14e7afaa5753ccdd6d155ab9",
+    "derived_sha256": "c61ccecc6f53cd70322896b853919f9f07cedaa7cccbfd792b5ef70b8e234ad7",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        305,
+        260
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.273514+00:00"
+  },
+  {
+    "file": "solda_04__luz103.jpg",
+    "source_file": "solda_04.jpg",
+    "source_sha256": "36bec313dc1ffc116b95cf39a540ce3142622d3d14e7afaa5753ccdd6d155ab9",
+    "derived_sha256": "b7af85015d91bfbdee3b2090ef77758cd30d923669140fb5201665d14763a9ca",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        305,
+        260
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.280414+00:00"
+  },
+  {
+    "file": "solda_05__luz097.jpg",
+    "source_file": "solda_05.jpg",
+    "source_sha256": "e1e4d4ec471d82803f93281a8f2bf64e934eacf8434519a9cc7a9679dd796591",
+    "derived_sha256": "4fe410acfe330348471c30f2020b66df803759456d6c982967e5ecdbff31a625",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        301,
+        260
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.288644+00:00"
+  },
+  {
+    "file": "solda_05__luz103.jpg",
+    "source_file": "solda_05.jpg",
+    "source_sha256": "e1e4d4ec471d82803f93281a8f2bf64e934eacf8434519a9cc7a9679dd796591",
+    "derived_sha256": "3c8fe50f63864f5c12f440fe74153adb9e3ac89375eb7434a001de229ffa4b22",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        301,
+        260
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.294162+00:00"
+  },
+  {
+    "file": "solda_06__luz097.jpg",
+    "source_file": "solda_06.jpg",
+    "source_sha256": "347413eaf53e9b0664398f5ff5403a76377a7f743da7e9fb91047c9e51e37d1f",
+    "derived_sha256": "b53ca93ae3dfc808af0f1276f3e7b182f91aa80945d254991ab4504f3211a615",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        307,
+        240
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.304686+00:00"
+  },
+  {
+    "file": "solda_06__luz103.jpg",
+    "source_file": "solda_06.jpg",
+    "source_sha256": "347413eaf53e9b0664398f5ff5403a76377a7f743da7e9fb91047c9e51e37d1f",
+    "derived_sha256": "92583d8496df1b701aeb962169c32d05f50476a7d532a632f3ded8ed79fc02da",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        307,
+        240
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.310521+00:00"
+  },
+  {
+    "file": "solda_07__luz097.jpg",
+    "source_file": "solda_07.jpg",
+    "source_sha256": "ff244ed46416c64878aa3185c38a46fcbf0f8161ce375c67ae7ce7e9260f15eb",
+    "derived_sha256": "37d7d680ba81ffec5731b9daa39d5b93aca4f254fae7173fc6e8307a2cd7dcb5",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        302,
+        240
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.320982+00:00"
+  },
+  {
+    "file": "solda_07__luz103.jpg",
+    "source_file": "solda_07.jpg",
+    "source_sha256": "ff244ed46416c64878aa3185c38a46fcbf0f8161ce375c67ae7ce7e9260f15eb",
+    "derived_sha256": "6e04f32da7f8c35c125720d220fdbe5feb2083f87e478031ce438c22d4afd02d",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        302,
+        240
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.326642+00:00"
+  },
+  {
+    "file": "solda_08__luz097.jpg",
+    "source_file": "solda_08.jpg",
+    "source_sha256": "92d1348984406ba702024d69e21b61e767560e1268b34fa3a08e1ae9e67e870f",
+    "derived_sha256": "4c8ca874d00bfaa86bbbaed2b0a913372842675c23b75b675efaca7c5179228a",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        297,
+        240
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.335324+00:00"
+  },
+  {
+    "file": "solda_08__luz103.jpg",
+    "source_file": "solda_08.jpg",
+    "source_sha256": "92d1348984406ba702024d69e21b61e767560e1268b34fa3a08e1ae9e67e870f",
+    "derived_sha256": "a4ce88b8e11c78ed4cbe19d086f6fd8edd9622ad04734c043a440d64897a653c",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        297,
+        240
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.340501+00:00"
+  },
+  {
+    "file": "solda_09__luz097.jpg",
+    "source_file": "solda_09.jpg",
+    "source_sha256": "776fa0ae27950a0b311974ad2b8b821cd42dd2e19c05c65151273c6114472de6",
+    "derived_sha256": "35c578085f55c1b19439ba8c70ecdba96eee19982826f479cecb00e8e7447295",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        305,
+        240
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.350282+00:00"
+  },
+  {
+    "file": "solda_09__luz103.jpg",
+    "source_file": "solda_09.jpg",
+    "source_sha256": "776fa0ae27950a0b311974ad2b8b821cd42dd2e19c05c65151273c6114472de6",
+    "derived_sha256": "d8ef95ecc1cb897452667013629fea0925f39cbdb992de726bee68ff8fecab14",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        305,
+        240
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.355717+00:00"
+  },
+  {
+    "file": "solda_10__luz097.jpg",
+    "source_file": "solda_10.jpg",
+    "source_sha256": "25a493b9ab1507b2d462038083177c7705fa99ce78a7850fb2451fb2c1bd6b50",
+    "derived_sha256": "58ad70f224d0066623a413c57af85160e151c97f0a29470ad35eb67c17eae625",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        301,
+        240
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.363806+00:00"
+  },
+  {
+    "file": "solda_10__luz103.jpg",
+    "source_file": "solda_10.jpg",
+    "source_sha256": "25a493b9ab1507b2d462038083177c7705fa99ce78a7850fb2451fb2c1bd6b50",
+    "derived_sha256": "ef2ea7ce88f401f48aa43722610aa1bca7dbc59d6d66e0334a3f7dd0d2e8a303",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        301,
+        240
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.370048+00:00"
+  },
+  {
+    "file": "solda_11__luz097.jpg",
+    "source_file": "solda_11.jpg",
+    "source_sha256": "258b169350f2d7fc262123e42da07f1760ce271af190aa07a7814b97c3582fc5",
+    "derived_sha256": "112323a6ed17622e52946d30828c89937f4e3ddf5359c836173a051614d490b5",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        307,
+        242
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.377649+00:00"
+  },
+  {
+    "file": "solda_11__luz103.jpg",
+    "source_file": "solda_11.jpg",
+    "source_sha256": "258b169350f2d7fc262123e42da07f1760ce271af190aa07a7814b97c3582fc5",
+    "derived_sha256": "625675a37f0947cad32f5afd85ebd5d7a559afc87b104288b597371f316b76e7",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        307,
+        242
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.384400+00:00"
+  },
+  {
+    "file": "solda_12__luz097.jpg",
+    "source_file": "solda_12.jpg",
+    "source_sha256": "a9681ae4c0b4245ca1e71d102cfc277777a54da1ca4a99f67ce8fd21c930097d",
+    "derived_sha256": "fd16b3a89d95d640a89e67ac55b3b1e10f22aaf26fd629c09ed79c37a770e638",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        302,
+        242
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.391213+00:00"
+  },
+  {
+    "file": "solda_12__luz103.jpg",
+    "source_file": "solda_12.jpg",
+    "source_sha256": "a9681ae4c0b4245ca1e71d102cfc277777a54da1ca4a99f67ce8fd21c930097d",
+    "derived_sha256": "e1b9cdf5975e37b3ec0138f2f9e66ae04e9a96d05038b9d40e097fdef0d7963e",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        302,
+        242
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.397559+00:00"
+  },
+  {
+    "file": "solda_13__luz097.jpg",
+    "source_file": "solda_13.jpg",
+    "source_sha256": "fe25efc98fea0c7caf6cce97142935eb6b656409ef959ddffec959764d369a47",
+    "derived_sha256": "3d07a18b3684445d62d20bbc2a18809d0ea276a22dbdcf721f481d82c94b9fb4",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        297,
+        242
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.405700+00:00"
+  },
+  {
+    "file": "solda_13__luz103.jpg",
+    "source_file": "solda_13.jpg",
+    "source_sha256": "fe25efc98fea0c7caf6cce97142935eb6b656409ef959ddffec959764d369a47",
+    "derived_sha256": "263d06a8018d7f2d2bab6d1123a41d7bf9278b90a1f64668748b1bdfef27b202",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        297,
+        242
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.415018+00:00"
+  },
+  {
+    "file": "solda_14__luz097.jpg",
+    "source_file": "solda_14.jpg",
+    "source_sha256": "04bbb13c877f53b5cc05b45a9692173dc2c73299119e52a48cd9c583f57bc282",
+    "derived_sha256": "719039e67838351bee78a17ce8bef54597f56d42e0f49d94679fc91845ff84d7",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        305,
+        242
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.422386+00:00"
+  },
+  {
+    "file": "solda_14__luz103.jpg",
+    "source_file": "solda_14.jpg",
+    "source_sha256": "04bbb13c877f53b5cc05b45a9692173dc2c73299119e52a48cd9c583f57bc282",
+    "derived_sha256": "e4b0c1573e81802b4da3452dcf4902a52596feae3fd1d028afd961dff583698a",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        305,
+        242
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.429586+00:00"
+  },
+  {
+    "file": "solda_15__luz097.jpg",
+    "source_file": "solda_15.jpg",
+    "source_sha256": "12f2a572f9d59b45da7d64cf12c9376d638f763ebefa495d2a470ba1cbc33074",
+    "derived_sha256": "beca8f020405f1b3142451661e501281bacf9a54c1bcb555ba59d361eb1b0691",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        301,
+        242
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.438453+00:00"
+  },
+  {
+    "file": "solda_15__luz103.jpg",
+    "source_file": "solda_15.jpg",
+    "source_sha256": "12f2a572f9d59b45da7d64cf12c9376d638f763ebefa495d2a470ba1cbc33074",
+    "derived_sha256": "dd832543e6c31010cd07c3613403026a73fab02f5ece23c46e1a46611d899a00",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        301,
+        242
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.445389+00:00"
+  },
+  {
+    "file": "solda_16__luz097.jpg",
+    "source_file": "solda_16.jpg",
+    "source_sha256": "3134fcaf532781ef568b73dbb27fbde0d8790b499e1f3767472afb734be644d0",
+    "derived_sha256": "3de1acdcb7db97aae389dcca1d9a39cdce48edbca67553f215a6509fb24811cc",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        306,
+        264
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.452720+00:00"
+  },
+  {
+    "file": "solda_16__luz103.jpg",
+    "source_file": "solda_16.jpg",
+    "source_sha256": "3134fcaf532781ef568b73dbb27fbde0d8790b499e1f3767472afb734be644d0",
+    "derived_sha256": "448462efd18337a03f34690285f6e641180d86212f088846b756f1cdb0397a9b",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        306,
+        264
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.459169+00:00"
+  },
+  {
+    "file": "solda_17__luz097.jpg",
+    "source_file": "solda_17.jpg",
+    "source_sha256": "06d26a475dfb19618a36204cb964e30279f26622267df9ca7255d1d0f35134ba",
+    "derived_sha256": "8628be2fdfff2ea549daef22668bc8754be2c993fc448887bd6aacf32a9f41e3",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        302,
+        264
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.466511+00:00"
+  },
+  {
+    "file": "solda_17__luz103.jpg",
+    "source_file": "solda_17.jpg",
+    "source_sha256": "06d26a475dfb19618a36204cb964e30279f26622267df9ca7255d1d0f35134ba",
+    "derived_sha256": "f69ce2e6e59b2d13f1fc0a81efab26bc421af779c88b5fcc9db3794377eb0a7e",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        302,
+        264
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.474137+00:00"
+  },
+  {
+    "file": "solda_18__luz097.jpg",
+    "source_file": "solda_18.jpg",
+    "source_sha256": "a148af3418dbd2229834bd9d4f0253d9a22ed72644320782c2691639120cff70",
+    "derived_sha256": "286a9233f0c6e1a98de360569b5e2790afa41eb44cdffd9c828b6e62fcb619c5",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        297,
+        264
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.481805+00:00"
+  },
+  {
+    "file": "solda_18__luz103.jpg",
+    "source_file": "solda_18.jpg",
+    "source_sha256": "a148af3418dbd2229834bd9d4f0253d9a22ed72644320782c2691639120cff70",
+    "derived_sha256": "432cd40ca7065c948e383c19ffb32f2dc212ac9f384d0c1ba03a8494fa7b112b",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        297,
+        264
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.489366+00:00"
+  },
+  {
+    "file": "solda_19__luz097.jpg",
+    "source_file": "solda_19.jpg",
+    "source_sha256": "7fb9628b5e30385d5552c0a556a18bff650e878faff19627aacc59872467b30b",
+    "derived_sha256": "f699f899efb6172a138bdd34aa152b29d52a3c43bf251093e45f471f1a1241de",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        305,
+        264
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.496885+00:00"
+  },
+  {
+    "file": "solda_19__luz103.jpg",
+    "source_file": "solda_19.jpg",
+    "source_sha256": "7fb9628b5e30385d5552c0a556a18bff650e878faff19627aacc59872467b30b",
+    "derived_sha256": "0c99ad9a6c9c211b99cf61155e405e345039fbdf48613806e9441c4aee7ac2bc",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        305,
+        264
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.504572+00:00"
+  },
+  {
+    "file": "solda_20__luz097.jpg",
+    "source_file": "solda_20.jpg",
+    "source_sha256": "e4ee7f932f1260265ede493c9269234ba29d3dfae330807b6ae3f3b32bf9f9a6",
+    "derived_sha256": "65f7337e9b75f18d42541091ea85fb103a3b2ae3ffc9a8413596578ec359ff08",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        301,
+        264
+      ],
+      "brightness_factor": 0.97,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.512701+00:00"
+  },
+  {
+    "file": "solda_20__luz103.jpg",
+    "source_file": "solda_20.jpg",
+    "source_sha256": "e4ee7f932f1260265ede493c9269234ba29d3dfae330807b6ae3f3b32bf9f9a6",
+    "derived_sha256": "dbbfe790e821aee9fe7e32ca3c0087e18f24a98246eb22cd2760f9be0f9275e1",
+    "transform": {
+      "perimeter_white_crop_bbox_xyxy": [
+        0,
+        0,
+        301,
+        264
+      ],
+      "brightness_factor": 1.03,
+      "jpeg_quality": 95
+    },
+    "label": "NAO_CLASSIFICADA",
+    "label_source": null,
+    "generated_at": "2026-10-29T16:16:26.519374+00:00"
+  }
+]
